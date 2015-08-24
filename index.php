@@ -17,6 +17,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="HandheldFriendly" content="true"/>
 <meta name="MobileOptimized" content="320"/>
+<meta property="og:image" content="http://www.615center.com/_include/img/work/full/1.jpg"/>
 
 <!-- Mobile Internet Explorer ClearType Technology -->
 <!--[if IEMobile]>  <meta http-equiv="cleartype" content="on">  <![endif]-->
