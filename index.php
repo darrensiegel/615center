@@ -533,7 +533,7 @@
                       Ongoing landscaping includes a
                       native and edible landscape plan incorporating fruit trees and a large strawberry patch. </p>
 
-                    <p>Buyer's agent's welcome.</p>
+                    <p>Buyers' agents welcome.</p>
                 </div>
 
             </div>
