@@ -583,6 +583,14 @@
 <h2><center>Asking Price: $419,000<center></h2>
 </div>
 
+
+<div class="row margin-40">
+<h2><center>Open House<center></h2>
+  <h3><center>Sunday, September 6th<center></h3>
+      <h3><center>1 - 4pm<center></h3>
+</div>
+
+
 </div>
 </div>
 
