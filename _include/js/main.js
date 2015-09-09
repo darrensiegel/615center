@@ -79,7 +79,7 @@ CHAKRA.slider = function(){
 		slides 					:  	[			// Slideshow Images
 											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">615 Center Avenue<br>Aspinwall, PA</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/image02.jpg', title : '<div class="slide-content">Sauer Buildings Historic District</div>', thumb : '', url : ''},
-											{image : '_include/img/slider-images/2.jpg', title : '<div class="slide-content">Open House<br>September 13th&nbsp;&nbsp;1 - 4pm</div>', thumb : '', url : ''},	],
+											{image : '_include/img/slider-images/2.jpg', title : '<div class="slide-content">Open House<br>September 12th & 13th&nbsp;&nbsp;1 - 4pm</div>', thumb : '', url : ''},	],
 
 		// Theme Options
 		progress_bar			:	0,			// Timer for each slide
