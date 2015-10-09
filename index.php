@@ -592,8 +592,8 @@ header("Pragma: no-cache");
 
 <div class="row margin-40">
 <h2><center>Open House<center></h2>
-  <h3><center>October 4th<center></h3>
-      <h3><center>1pm - 4pm<center></h3>
+  <h3><center>October 25th<center></h3>
+      <h3><center>Noon - 3pm<center></h3>
 </div>
 
 
