@@ -586,7 +586,7 @@ header("Pragma: no-cache");
     </div>
 
 <div class="row margin-40">
-<h2><center>Asking Price: $419,000<center></h2>
+<h2><center>Asking Price: $399,000<center></h2>
 </div>
 
 
